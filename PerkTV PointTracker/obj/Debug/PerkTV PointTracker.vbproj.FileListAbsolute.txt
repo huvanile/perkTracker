@@ -1,0 +1,15 @@
+C:\Users\Exidous\AppData\Local\Temporary Projects\PerkTV PointTracker\bin\Debug\PerkTV PointTracker.exe.config
+C:\Users\Exidous\Documents\Visual Studio 2013\Projects\PerkTV PointTracker\PerkTV PointTracker\bin\Debug\PerkTV PointTracker.exe.config
+C:\Users\Exidous\Documents\Visual Studio 2013\Projects\PerkTV PointTracker\PerkTV PointTracker\bin\Debug\PerkTV PointTracker.exe
+C:\Users\Exidous\Documents\Visual Studio 2013\Projects\PerkTV PointTracker\PerkTV PointTracker\bin\Debug\PerkTV PointTracker.pdb
+C:\Users\Exidous\Documents\Visual Studio 2013\Projects\PerkTV PointTracker\PerkTV PointTracker\bin\Debug\PerkTV PointTracker.xml
+C:\Users\Exidous\Documents\Visual Studio 2013\Projects\PerkTV PointTracker\PerkTV PointTracker\obj\Debug\PerkTV_PointTracker.Resources.resources
+C:\Users\Exidous\Documents\Visual Studio 2013\Projects\PerkTV PointTracker\PerkTV PointTracker\obj\Debug\PerkTV PointTracker.vbproj.GenerateResource.Cache
+C:\Users\Exidous\Documents\Visual Studio 2013\Projects\PerkTV PointTracker\PerkTV PointTracker\obj\Debug\PerkTV PointTracker.exe
+C:\Users\Exidous\Documents\Visual Studio 2013\Projects\PerkTV PointTracker\PerkTV PointTracker\obj\Debug\PerkTV PointTracker.xml
+C:\Users\Exidous\Documents\Visual Studio 2013\Projects\PerkTV PointTracker\PerkTV PointTracker\obj\Debug\PerkTV PointTracker.pdb
+C:\Users\Exidous\Documents\Visual Studio 2013\Projects\PerkTV PointTracker\PerkTV PointTracker\obj\Debug\PerkTV PointTracker.vbprojResolveAssemblyReference.cache
+C:\Users\Exidous\Source\Repos\perkTracker\PerkTV PointTracker\bin\Debug\PerkTV PointTracker.exe.config
+C:\Users\Exidous\Source\Repos\perkTracker\PerkTV PointTracker\obj\Debug\PerkTV PointTracker.exe
+C:\Users\Exidous\Source\Repos\perkTracker\PerkTV PointTracker\obj\Debug\PerkTV PointTracker.xml
+C:\Users\Exidous\Source\Repos\perkTracker\PerkTV PointTracker\obj\Debug\PerkTV PointTracker.pdb
